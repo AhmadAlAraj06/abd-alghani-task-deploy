@@ -1,0 +1,36 @@
+.mai{
+    background-color: #e5ebf3;
+}
+.mainItem{
+    display: flex;
+    align-items: center;
+    max-width: 100%; 
+    width: 100vw;
+    height: 600px;
+    background-color: #e5ebf3;
+}
+.menuMain{
+    
+    margin-left: 6%;
+}
+.mainimg {
+    margin-top: 20px;
+   height: 200px;
+    width: 90%;
+}
+.desktopheaderimage {
+    text-align: center;
+    
+}
+.im{
+    width: 100%;
+    height: 75%;
+}
+.divCl{
+    width: 28.5%;
+    height:480px;
+    margin-left: 4%;
+   
+    background-color: white;
+   
+}

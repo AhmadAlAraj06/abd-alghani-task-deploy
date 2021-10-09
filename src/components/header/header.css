@@ -1,0 +1,72 @@
+.header{
+    display: flex;
+    align-items: center;
+    max-width: 100%; 
+    width: 100vw;
+    height: 55px;
+    color: #fff;
+    background: #01b2ee;
+}
+.left{
+    float: left;
+    width: 55%; 
+    margin-left: 50px;
+  }
+  .main {
+    margin-right: 20px;
+    float: right;
+    width: 30%;
+    width: 100px; 
+  }
+  .right {
+    border-left: 3px solid #fcfcfc;
+    float: left;
+    width: 10%; 
+    margin-right: 50px;
+    
+    text-align: center;
+  }
+  .location {
+    border: #fcfcfc;
+    color: #fcfcfc;
+    background-color: #01b2ee;
+    margin-right: 20px;
+    float: right;
+    width: 30%;
+    width: 100px; /* The width is 60%, by default */
+  }
+  .fav{
+    float: right;
+    width: 30%;
+    width: 40px; /* The width is 60%, by default */
+    margin-right: 20px;
+  }
+  .person{
+    border: #fcfcfc;
+    color: #fcfcfc;
+    background-color: #01b2ee;
+    float: right;
+    width: 30%;
+    width: 40px; /* The width is 60%, by default */
+  }
+  .personList{
+    
+    border: #fcfcfc;
+    color: #fcfcfc;
+    background-color: #01b2ee;
+    float: right;
+    width: 30%;
+    width: 40px; 
+  }
+  .email {
+    margin-left: 10px;
+    float: right;
+    width: 30%;
+    width: 40px; 
+  }
+  .sub {
+    float: right;
+    width: 30%;
+    width: 100px;
+  }
+  
